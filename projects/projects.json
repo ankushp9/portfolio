@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Sinhgad UniGuide",
+    "desc": "Developing this app to streamline access to essential campus services, enhancing student experience. Implementing a user-centric design to streamline student engagement with campus resources, optimizing efficiency. Creating this project as a comprehensive solution for diverse student needs, improving their college journey. Creating a robotic system for enhancing publicity and convenience among strangers. Involves the integration of various components, including a controller, display, and switches.",
+    "image": "projects/sinhgaduniguide.jpeg",
+    "category": "android",
+    "links": {
+      "view": "#",
+      "code": "#"
+    },
+    "mentor": "Prof. S.S. Bhardwaj",
+    "team_size": 4,
+    "key_skills": ["Learning and Development", "Circuit Design", "Interfacing", "Controllers"],
+    "start_date": "10 Jul, 2023",
+    "end_date": "10 Jun, 2024"
+  },
+  {
+    "name": "Wireless Notice Board using GSM And Arduino",
+    "desc": "Designed and developed a wireless notice board system that displays notices and messages from authorized personnel using an Arduino Uno and a GSM module. The system allows authorized users to send notices or messages to the notice board via SMS. The GSM module receives the SMS and sends it to the Arduino Uno, which then displays it on a connected LCD display.",
+    "image": "projects/wirelessnoticeboard.jpeg",
+    "category": "arduino",
+    "links": {
+      "view": "#",
+      "code": "#"
+    },
+    "mentor": "Prof. S.N. Gorkha",
+    "team_size": 4,
+    "key_skills": ["Arduino UNO", "GSM"],
+    "start_date": "20 Feb, 2021",
+    "end_date": "12 Jul, 2021"
+  },
+  {
+    "name": "Password Based Door Lock System",
+    "desc": "In this project, we worked hard to develop a smart home device using our system. Our main goal was to create a highly secure system that would stop unauthorized people from getting into our homes and prevent theft. To achieve this, we spent time studying how Arduino UNO, Matrix Keypad, and Servo motor work, as they are essential for making our device effective. We wanted to offer users a safer and more affordable way to lock their doors. With our smart home device, users can feel much safer, knowing that their doors are protected from unauthorized people/ thefts.",
+    "image": "projects/passwordbaseddoorlock.jpeg",
+    "category": "arduino",
+    "links": {
+      "view": "#",
+      "code": "#"
+    },
+    "mentor": "Prof. S.S. Bhardwaj",
+    "team_size": 3,
+    "key_skills": ["Arduino", "ATmega328P", "Breadboard", "Interfacing"],
+    "start_date": "#",
+    "end_date": "#"
+  }
+]
